@@ -1,0 +1,11 @@
+C:\Users\Tavo\source\repos\tareas_final\obj\Debug\tareas_final.csproj.AssemblyReference.cache
+C:\Users\Tavo\source\repos\tareas_final\obj\Debug\tareas_final.Form1.resources
+C:\Users\Tavo\source\repos\tareas_final\obj\Debug\tareas_final.Properties.Resources.resources
+C:\Users\Tavo\source\repos\tareas_final\obj\Debug\tareas_final.csproj.GenerateResource.cache
+C:\Users\Tavo\source\repos\tareas_final\obj\Debug\tareas_final.csproj.CoreCompileInputs.cache
+C:\Users\Tavo\source\repos\tareas_final\bin\Debug\tareas_final.exe.config
+C:\Users\Tavo\source\repos\tareas_final\bin\Debug\tareas_final.exe
+C:\Users\Tavo\source\repos\tareas_final\bin\Debug\tareas_final.pdb
+C:\Users\Tavo\source\repos\tareas_final\obj\Debug\tareas_final.exe
+C:\Users\Tavo\source\repos\tareas_final\obj\Debug\tareas_final.pdb
+C:\Users\Tavo\source\repos\tareas_final\obj\Debug\tareas_final.Form2.resources
